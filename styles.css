@@ -10,10 +10,9 @@ img {
 .clicked {
   height: 400px;
   width: 400px;
-
 }
 
 .mouseover {
-  background-color: red;
-  border: 2px solid;
+  background-color: palevioletred;
+  border: 5px solid;
 }
