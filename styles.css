@@ -1,0 +1,19 @@
+html {
+  background-image: url('https://neversurrender.in.th/wp-content/uploads/2017/03/test-bg-gradient.jpg');
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.clicked {
+  height: 400px;
+  width: 400px;
+
+}
+
+.mouseover {
+  background-color: red;
+  border: 2px solid;
+}
