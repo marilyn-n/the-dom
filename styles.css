@@ -16,3 +16,8 @@ img {
   background-color: palevioletred;
   border: 5px solid;
 }
+
+.when-click {
+  padding: 30px;
+  border: 2px solid red;
+}
