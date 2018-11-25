@@ -1,0 +1,26 @@
+[% name = 'Ravi Kalia' %]
+[% planet = 'MARS' %]
+[% captain = 'Captain Marvel' %]
+[% time = '1 Sec' %]
+[% color = 'blue' %]
+
+<h1>whatevver</h1>
+People of <b>[% planet %]</b>, your attention please.
+
+This is <i>[% captain %] </i> of the
+Galactic Hyperspace Planning Council.
+
+As you will no doubt be aware, the plans
+for development of the outlying regions
+of the Galaxy require the building of a
+hyperspatial express route through your
+star system, and regrettably your planet
+is one of those scheduled for destruction.
+dfasdfasd
+The process will take slightly less than
+[% time %].
+<b>[% color %]</b>
+
+Thank you.
+
+<h1> [% name %] </h1>
