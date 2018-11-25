@@ -15,4 +15,12 @@ const toggleClass = function () {
 // [...images].map(img => img.addEventListener('click', cb))
 
 
-// do the same for more buttons and images when you click over them
+// do more examples with buttons and more images or lists
+
+const buttons = document.querySelectorAll('button');
+
+const fn = function () {
+  this.classList.toggle('when-click');
+};
+
+[...buttons].map(button => button.addEventListener('click', fn));
